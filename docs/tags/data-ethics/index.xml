@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Data Ethics on Daniel Bowers</title>
+		<link>https://danbowersjr.github.io/mysite/tags/data-ethics/</link>
+		<description>Recent content in Data Ethics on Daniel Bowers</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 26 Oct 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://danbowersjr.github.io/mysite/tags/data-ethics/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Hidden Risks of Anonymous Student Surveys</title>
+				<link>https://danbowersjr.github.io/mysite/blogs/ethical-survey/</link>
+				<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://danbowersjr.github.io/mysite/blogs/ethical-survey/</guid>
+				<description>&lt;h1 id=&#34;the-hidden-risks-of-anonymous-student-surveys&#34;&gt;The Hidden Risks of Anonymous Student Surveys&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Student surveys are important tools for improving education. They allow institutions to collect feedback and identify courses that may need improvement. However, collecting this information raises ethical concerns, particularly when students are promised anonymity.&lt;/p&gt;&#xA;&lt;p&gt;In this assignment, I will examine a student survey that requires participants to log in using their usernames and passwords while claiming that their responses are anonymous.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ethical-concerns&#34;&gt;Ethical Concerns&lt;/h2&gt;&#xA;&lt;p&gt;One major concern is privacy. Even though the survey does not ask students for their names, requiring them to log in could potentially allow their responses to be linked to their identities.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
